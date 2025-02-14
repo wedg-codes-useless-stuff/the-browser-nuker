@@ -1,2 +1,2 @@
 # THE BROWSER NUKER
-nuke your browser with <about:blank:> tabs
+nuke your browser with <about:blank> tabs
